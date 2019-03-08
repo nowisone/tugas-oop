@@ -1,0 +1,7 @@
+public class BAbid {
+  public static void main(String arg[]){
+    System.out.println(" Nama   : Abid Naufal Sinara ");
+    System.out.println(" NIM    : 17090028 ");
+    System.out.println(" Kelas  : 4B ");
+  }
+}
